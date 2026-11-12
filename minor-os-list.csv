@@ -1,0 +1,210 @@
+﻿No,OS名,分類,状態,最新版,最新版の日付,公式サイト・リポジトリ,本シリーズでの扱い,扱った号・関係
+1,Haiku,デスクトップ(BeOS互換),活発,R1/beta6,2026-08-26,https://www.haiku-os.org/,扱い済み,1st 4号、1st 6号、2nd 1号、3rd 1号
+2,ReactOS,デスクトップ(Windows互換),活発,0.4.16,2026-08-29,https://reactos.org/,扱い済み,1st 4号、2nd 1号、3rd 1号
+3,SerenityOS,デスクトップ(ホビー/Unix風),活発,(リリースなし),,https://serenityos.org/,扱い済み,2nd 5号
+4,Redox OS,マイクロカーネル(Rust),活発,0.9.0,2024-09-07(タグ),https://www.redox-os.org/,扱い済み,1st 10号、3rd 1号
+5,Genode / Sculpt OS,OSフレームワーク(マイクロカーネル),活発,Genode 26.08 / Sculpt 26.04,2026-08-25 / 2026-04-30,https://genode.org/,扱い済み,2nd 2号、3rd 1号
+6,Fuchsia,マイクロカーネル(Zircon),活発,F31,2026-07-22,https://fuchsia.dev/,扱い済み,2nd 3号、2nd 4号、3rd 1号
+7,illumos,Unix(Solaris系カーネル),活発,(リリースなし),,https://illumos.org/,扱い済み,2nd 10号、3rd 1号
+8,OpenIndiana,Unix(illumosディストリビューション),活発,Hipster 2026.04,2026-05-05,https://www.openindiana.org/,扱い済み,2nd 10号、3rd 1号
+9,OmniOS,Unix(illumosディストリビューション),活発,r151058,2026-05-04,https://omnios.org/,系統は扱い済み,illumos系(OpenIndianaを扱い済み)(2nd 10号、3rd 1号)
+10,SmartOS,Unix(illumosディストリビューション),活発,20261009T131447Z,2026-10-09,https://www.tritondatacenter.com/smartos,系統は扱い済み,illumos系(OpenIndianaを扱い済み)(2nd 10号、3rd 1号)
+11,Tribblix,Unix(illumosディストリビューション),活発,0m41,(日付記載なし),http://www.tribblix.org/,系統は扱い済み,illumos系(OpenIndianaを扱い済み)(2nd 10号、3rd 1号)
+12,Oracle Solaris,商用Unix,商用(継続),11.4 SRU 94(推定),2026-07,https://www.oracle.com/solaris/,扱い済み,1st 3号、1st 10号、1st 11号
+13,GNU Hurd,マイクロカーネル(GNU Mach上のサーバ群),活発,0.9 / GNU Mach 1.8,2016-12(既知),https://www.gnu.org/software/hurd/,扱い済み,2nd 10号、3rd 1号
+14,Debian GNU/Hurd,GNU Hurdディストリビューション,活発,Debian GNU/Hurd 2025,2025-08-10,https://www.debian.org/ports/hurd/,扱い済み,2nd 10号、3rd 1号
+15,9front,Plan 9系,活発,"""THIS WAS SUPPOSED TO BE FUN""",2026-08-02,https://9front.org/,系統は扱い済み,Plan 9系(Bell Labs版・9legacyを扱い済み。9front自体は未)(1st 3号、2nd 6号、3rd 1号)
+16,Plan 9 from Bell Labs,Plan 9系,停滞,第4版(最終スナップショット),2015-01-10,https://p9f.org/,扱い済み,1st 3号、2nd 6号、3rd 1号
+17,9legacy,Plan 9系,停滞,(パッチ集),,http://9legacy.org/,扱い済み,2nd 6号
+18,Inferno,Plan 9系(仮想マシン型OS),活発,第4版(リリースタグなし),,https://www.inferno-os.org/,系統は扱い済み,Plan 9系(1st 3号、2nd 6号、3rd 1号)
+19,Harvey OS,Plan 9系,アーカイブ済み,9legacy,2021-07-23,https://harvey-os.org/,系統は扱い済み,Plan 9系(中身は9legacy)(1st 3号、2nd 6号、3rd 1号)
+20,MINIX 3,マイクロカーネル(Unix系),停滞,3.3.0 / 3.4.0rc6,2014-09-16 / 2017-05-09,https://www.minix3.org/,扱い済み,1st 6.5号、3rd 1号
+21,AROS,Amiga互換,活発,(nightly),,https://aros.sourceforge.io/,扱い済み,1st 6号
+22,AmigaOS 4,商用(Amiga),商用(継続),4.1 Final Edition Update 3,2025-10-18,https://www.hyperion-entertainment.com/,系統は扱い済み,Amiga系(AROS・MorphOSを扱い済み)(1st 2号、1st 6号、2nd 1号)
+23,AmigaOS 3.2,商用(Amiga 68k),商用(継続),3.2系,(未確認),https://www.hyperion-entertainment.com/,系統は扱い済み,Amiga系(AROS・MorphOSを扱い済み)(1st 2号、1st 6号、2nd 1号)
+24,MorphOS,商用(Amiga互換・PowerPC),商用(継続),3.20,2026-05-30,https://www.morphos-team.net/,扱い済み,1st 2号、2nd 1号
+25,KolibriOS,アセンブリ製デスクトップ,活発,0.7.7.0 + nightly,(nightlyは随時),https://kolibrios.org/,未扱い,
+26,MenuetOS,アセンブリ製デスクトップ,更新少なめ,M64 1.62.00 / Menuet32 0.86b,(M64は日付記載なし) / 2019-09-02,http://www.menuetos.net/,未扱い,
+27,FreeDOS,DOS互換,活発,1.4,2025-04,https://www.freedos.org/,扱い済み,1st 3号
+28,SvarDOS,DOS互換,活発,安定版 20250427 / 開発版 20251005,,http://svardos.org/,系統は扱い済み,DOS互換(FreeDOSを扱い済み)(1st 3号)
+29,ArcaOS,商用(OS/2系),商用(継続),5.1.2,2026-03-08,https://www.arcanoae.com/,系統は扱い済み,OS/2系(eComStationの後継)(1st 1号、1st 4号、2nd 5号)
+30,osFree,OS/2互換(オープンソース),活発,(リリースなし),,https://www.osfree.org/,扱い済み,2nd 7号
+31,RISC OS Open,RISC OS(ARM),活発,5.30(安定版),2024-04-27,https://www.riscosopen.org/,扱い済み,1st 2号、2nd 9号
+32,TempleOS,ホビー(HolyC),終了(作者死去),5.03(最終版),2017,https://templeos.org/,扱い済み,2nd 2号、2nd 12号
+33,ZealOS,ホビー(TempleOS派生),活発,latest,2025-11-10,https://zeal-operating-system.github.io/,扱い済み,2nd 12号
+34,Visopsys,ホビー(独自),更新少なめ,0.92,(未確認),https://visopsys.org/,未扱い,
+35,ToaruOS,ホビー(独自・Unix風),活発,v3.0.0a1,2026-10-08,https://toaruos.org/,扱い済み,1st 10号
+36,Managarm,マイクロカーネル(非同期I/O),活発,(リリースなし),,https://managarm.org/,扱い済み,2nd 3号
+37,Essence,ホビー(デスクトップ),更新少なめ,(リリースなし),,https://gitlab.com/nakst/essence,未扱い,
+38,HelenOS,マイクロカーネル(マルチサーバ),活発,0.11.2,2021-12-17,https://www.helenos.org/,扱い済み,2nd 2号
+39,Sortix,ホビー(Unix風),活発,1.0(1.1は開発中),2016-03,https://sortix.org/,未扱い,
+40,skiftOS,ホビー(マイクロカーネル),活発,(リリースなし),,https://skiftos.org/,扱い済み,2nd 3号
+41,Astral,ホビー(Unix風),活発,2025-11-03,2025-11-03,https://astral-os.org,未扱い,
+42,Aero,ホビー(Rust・Unix風),更新少なめ,(リリースなし),,https://andypy.dev/aero,未扱い,
+43,Ironclad,ホビー(Ada/SPARK・Unix風),活発,0.8.0,2025-08-13,https://ironclad-os.org/,未扱い,
+44,Gloire,Ironclad上のディストリビューション,活発,v20260430,2026-04-30,https://ironclad-os.org/,未扱い,
+45,Phantom OS,研究(永続オブジェクト),更新少なめ,(リリースなし),,Phantom: Persistent Operating System,未扱い,
+46,seL4,マイクロカーネル(形式検証),活発,16.0.0,2026-07-22,https://sel4.systems/,未扱い,
+47,Hubris,組込み(Oxide),活発,all-sp-v1.82.0,2026-10-07,https://hubris.oxide.computer/,未扱い,
+48,Theseus,研究(Rust),停滞,(リリースなし),,https://www.theseus-os.com/,未扱い,
+49,Twizzler,研究(Rust),活発,(リリースなし),,https://twizzler.io/,未扱い,
+50,Asterinas,フレームカーネル(Rust・Linux ABI互換),活発,v0.19.0,2026-10-12,https://asterinas.github.io/,未扱い,
+51,Maestro,ホビー(Rust・Unix風),活発,(リリースなし),,https://maestro-os.github.io/,未扱い,
+52,Kerla,ホビー(Rust・Linux ABI互換),更新少なめ,v0.1.0,2021-12-24,A new operating system kernel with Linux binary compatibility written in Rust.,扱い済み,2nd 7号
+53,Resea,マイクロカーネル(ホビー),更新少なめ,v0.9.0,2021-03-11,A microkernel-based hackable operating system.,未扱い,
+54,FTL,研究(クラウド向け),活発,v0.1.0,2026-10-03,https://ftl-os.org,未扱い,
+55,Hermit,ユニカーネル(Rust),活発,v0.13.2,2026-03-13,https://hermit-os.org/,未扱い,
+56,Unikraft,ユニカーネル,活発,RELEASE-0.21.0,2026-05-20,https://unikraft.org/,未扱い,
+57,OSv,ユニカーネル,活発,v0.57.0,2022-12-20,https://osv.io/,扱い済み,1st 10号
+58,IncludeOS,ユニカーネル(C++),活発,v0.15.0,2019-05-09,https://www.includeos.org/,未扱い,
+59,MirageOS,ユニカーネル(OCaml),活発,v4.11.2,2026-07-28,https://mirage.io/,未扱い,
+60,Nanos,ユニカーネル,活発,0.1.56,2026-09-21,https://nanos.org/,未扱い,
+61,Solo5,ユニカーネル実行基盤,活発,v0.13.0,2026-08-28,A sandboxed execution environment for unikernels,未扱い,
+62,Mewz,ユニカーネル(Wasm),活発,v0.1.3,2025-07-31,A unikernel designed specifically for running Wasm applications and compatible with WASI,未扱い,
+63,Barrelfish,研究(マルチカーネル),停滞,release2020-03-23,2020-03-20,https://barrelfish.org/,未扱い,
+64,L4Re / Fiasco,マイクロカーネル(L4),活発,r-2026-W42,2026-10-14,https://l4re.org/,未扱い,
+65,NOVA,マイクロハイパーバイザ,活発,release-26.35.0,2026-08-28,http://hypervisor.org,未扱い,
+66,Mezzano,Lisp OS,活発,demo5,2020-07-25,An operating system written in Common Lisp,未扱い,
+67,ChrysaLisp,Lisp OS(仮想プロセッサ),活発,v7.0,2026-10-05,"Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...",未扱い,
+68,Fiwix,Unix風(i386),活発,v1.7.0,2025-11-15,https://www.fiwix.org/,未扱い,
+69,MOROS,ホビー(Rust),活発,v0.13.0,2026-06-22,https://moros.cc/,未扱い,
+70,Cosmos,C#製OSキット,活発,v3.0.94,2026-10-09,https://www.gocosmos.org/,未扱い,
+71,Tilck,教育用(Linux互換の小型カーネル),活発,(リリースなし),,A Tiny Linux-Compatible Kernel,未扱い,
+72,Vinix,ホビー(V言語),活発,iso-2026-10-18,2026-10-18,https://vinix-os.org,未扱い,
+73,Lyre,ホビー(Unix風),更新少なめ,nightly-2024-04-20,2024-04-20,UNIX-like kernel and distro written from scratch,未扱い,
+74,OpenHarmony,IoT/モバイル(中国),活発,6.0 Release / 6.x Release,2025-09 / 2026-05,https://www.openharmony.cn/,未扱い,
+75,UniProton,RTOS(openEuler),更新少なめ,v1.0.1,2023-03-21(タグ),https://www.openeuler.org/,未扱い,
+76,RT-Thread,RTOS,活発,v5.3.0,2026-09-10,https://www.rt-thread.io/,未扱い,
+77,Huawei LiteOS,RTOS,停滞,v5.1.0,2022-04-08(タグ),https://gitee.com/LiteOS/LiteOS,未扱い,
+78,AliOS Things,IoT OS,停滞,v1.3.4,2019-08-05,面向IoT领域的、高可伸缩的物联网操作系统，可去官网了解更多信息https://www.aliyun.com/product/aliosthings,未扱い,
+79,TencentOS Tiny,RTOS,停滞,v2.5.0,2022-03-23,开放原子开源基金会孵化的物联网操作系统，捐赠前为腾讯物联网终端操作系统TencentOS Tiny,未扱い,
+80,rCore,教育用(Rust),停滞,v0.1,2019-01-18,Rust version of THU uCore OS. Linux compatible.,未扱い,
+81,zCore,Zircon互換(Rust),活発,prebuilt-260903,2026-09-03,Zircon microkernel reimplemented in Rust.,未扱い,
+82,ArceOS,コンポーネント型(Rust),活発,v0.2.0,2025-07-13,https://arceos.org/arceos/,未扱い,
+83,StarryOS,ArceOSベース(Linux互換),活発,v0.2.0-preview.1,2026-03-06,https://github.com/Starry-OS/StarryOS,未扱い,
+84,DragonOS,ホビー(Rust・Linux互換),活発,V0.4.0,2025-12-22,https://dragonos.org/,未扱い,
+85,RuxOS,ユニカーネル(Rust),更新少なめ,RELEASE-v0.1.0,2025-07-23,https://ruxos.syswonder.org,未扱い,
+86,PureDarwin,Darwin系(判断保留で収録),活発,20.5,2026-10-17,https://www.puredarwin.org/handbook/_Handbook.html,系統は扱い済み,Darwin系(Darwin 8.0.1を扱い済み)(2nd 10号)
+87,OpenVMS (VSI),商用(VMS),商用(継続),V9.2-3(x86-64),2024-11-20,https://vmssoftware.com/,扱い済み,2nd 7.5号、2nd 8号
+88,QNX,商用RTOS,商用(継続),SDP 8.0,(未確認),https://blackberry.qnx.com/,扱い済み,1st 1号、1st 3号、1st 4号
+89,VxWorks,商用RTOS,商用(継続),26.03,2026-03-20,https://www.windriver.com/products/vxworks,未扱い,
+90,KasperskyOS,商用(マイクロカーネル),商用(継続),Community Edition SDK 1.4,(未確認),https://os.kaspersky.com/,未扱い,
+91,Zephyr,RTOS,活発,v4.4.2,2026-08-07,https://www.zephyrproject.org/,未扱い,
+92,Apache NuttX,RTOS,活発,nuttx-13.1.0,2026-09-26,https://nuttx.apache.org/,未扱い,
+93,RIOT,RTOS(IoT),活発,2026.07,2026-08-21,https://www.riot-os.org/,未扱い,
+94,FreeRTOS,RTOS,活発,V11.3.2,2026-10-16,https://www.freertos.org/,未扱い,
+95,ChibiOS,RTOS,更新少なめ,21.11.3,2022-12-29,https://www.chibios.org/,未扱い,
+96,Eclipse ThreadX,RTOS,活発,v6.5.2.202603_rel,2026-10-02,https://threadx.io/,未扱い,
+97,Contiki-NG,IoT OS,活発,release/v5.2,2026-08-14,https://www.contiki-ng.org/,未扱い,
+98,Tock,組込み(Rust),活発,release-2.3.0,2026-10-08,https://www.tockos.org/,未扱い,
+99,Embox,RTOS(組込み),活発,v0.7.2,2026-09-01,https://embox.github.io/,未扱い,
+100,Phoenix-RTOS,RTOS(マイクロカーネル),活発,v3.3.2,2024-12-11,https://phoenix-rtos.com/,未扱い,
+101,eCos,RTOS,停滞,3.0,2009-03,https://ecos.sourceware.org/,未扱い,
+102,µC/OS-III,RTOS,活発,v3.08.02,2022-12-02,"µC/OS-III is a preemptive, highly portable, and scalable real-time kernel. Designed for ease of use on a huge number of CPU architectures.",未扱い,
+103,Trampoline,RTOS(OSEK/AUTOSAR),活発,(リリースなし),,Trampoline is a static RTOS for small embedded systems. Its API is aligned with OSEK/VDX OS and AUTOSAR OS 4.2 standards.,未扱い,
+104,Little Kernel (LK),組込みカーネル,活発,(リリースなし),,LK embedded kernel,未扱い,
+105,F9 Microkernel,マイクロカーネル(Cortex-M),更新少なめ,(リリースなし),,"An efficient and secure microkernel built for ARM Cortex-M cores, inspired by L4",未扱い,
+106,Ariel OS,組込み(Rust),活発,v0.6.0,2026-10-07,https://ariel-os.org/,未扱い,
+107,MuditaOS,携帯電話(FreeRTOSベース),活発,pure_1.12.0-daily.2026.06.12,2025-09-25,https://mudita.com/products/pure/muditaos,未扱い,
+108,μT-Kernel 3.0,RTOS(TRON),活発,v3.00.08,2026-07-09,https://www.tron.org/,未扱い,
+109,TOPPERS/ASP3,RTOS(TOPPERS),活発,Release 3.x(番号は未確認),,https://www.toppers.jp/,未扱い,
+110,MikanOS,ホビー(書籍『ゼロからのOS自作入門』),停滞,v1.0,2022-08-18,Educational Operating System,未扱い,
+111,HinaOS,マイクロカーネル(書籍『自作OSで学ぶマイクロカーネル』),更新少なめ,(リリースなし),,『自作OSで学ぶマイクロカーネルの設計と実装』サポートサイト,未扱い,
+112,xv6 (RISC-V),教育用Unix,活発,verified-v2,2026-09-16,https://pdos.csail.mit.edu/6.1810,未扱い,
+113,octox,教育用(xv6のRust版),活発,(リリースなし),,Unix-like OS in Rust inspired by xv6-riscv,未扱い,
+114,egos-2000,教育用,活発,v4.0.0,2026-07-22,https://egos.fun/,未扱い,
+115,ELKS,16ビットPC向けLinux風,活発,v0.9.2,2026-09-06,Embeddable Linux Kernel Subset - Linux for 8086,未扱い,
+116,KnightOS,電卓(TI)向け,停滞,0.3.0,2014-10-20,https://knightos.org/,未扱い,
+117,Zeal 8-bit OS,Z80向け,活発,v0.7.0,2026-03-24,"An Operating System for Z80 computers, written in assembly",未扱い,
+118,ITS,歴史的OS(PDP-10),活発,(リリースなし),,Incompatible Timesharing System,未扱い,
+119,BareMetal,ホビー(アセンブリ・エクソカーネル),活発,2026.04,2026-04-29,https://www.returninfinity.com/,未扱い,
+120,LemonOS,ホビー,更新少なめ,nightly-2024-07-12,2024-07-12,https://lemonos.org,扱い済み,2nd 3号
+121,Brutal,ホビー(マイクロカーネル),活発,milestone-4,2022-03-27,https://brutal.smnx.sh/,未扱い,
+122,WingOS,ホビー(マイクロカーネル),活発,(リリースなし),,https://wingos.org/,未扱い,
+123,cavOS,ホビー,活発,(リリースなし),,https://malwarepad.com/,未扱い,
+124,Gramado OS,ホビー,活発,(リリースなし),,https://github.com/frednora/gramado,未扱い,
+125,Ghost,ホビー(マイクロカーネル),更新少なめ,v1.2.0,2025-11-11,http://ghostkernel.org/,扱い済み,2nd 3号
+126,duckOS,ホビー(C++),アーカイブ済み,v0.0,2024-09-09,"An x86 monolithic kernel and operating system written in modern C++. Comes with in-house graphical applications and command line utilities, plus ports of existing software. And yes, it runs DOOM!",未扱い,
+127,opuntiaOS,ホビー,停滞,(リリースなし),,"opuntiaOS - an operating system targeting x86, ARM and RISC-V.",未扱い,
+128,FreeNOS,ホビー(マイクロカーネル),更新少なめ,1.0.4,2025-12-30,http://www.FreeNOS.org,未扱い,
+129,soso,ホビー,活発,v0.4,2025-09-20,A Simple Unix-like operating system,扱い済み,2nd 5号
+130,RetrOS-32,ホビー,更新少なめ,v0.0.5,2025-04-26,https://oshub.org/projects/retros-32,未扱い,
+131,osakaOS,ホビー,活発,(リリースなし),,https://www.youtube.com/@dpacarana,未扱い,
+132,Winix,教育用(MINIX風),更新少なめ,2.6,2022-06-14,A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP),未扱い,
+133,redshirt,研究(Wasm),更新少なめ,(リリースなし),,🧑‍🔬 Operating system,未扱い,
+134,k23,研究(Wasmマイクロカーネル),活発,nightly-2026-10-16,2026-10-16,https://jonaskruckenberg.github.io/k23/,未扱い,
+135,Nanvix,研究,活発,v0.24.66,2026-10-17,https://github.com/nanvix,未扱い,
+136,Escape,ホビー(マイクロカーネル),更新少なめ,0.7,2017-05-24,"Escape is a UNIX-like microkernel operating system that runs on x86, x86_64, ECO32 and MMIX.",未扱い,
+137,Poplar,ホビー(Rust),活発,(リリースなし),,https://poplar.isaacwoods.dev,未扱い,
+138,gentleOS32,ホビー(古い32ビットPC向け),活発,latest-release,2026-06-20,https://luke8086.dev/gentleos/32,未扱い,
+139,FRANK OS,マイコン(RP2350)向け,活発,v1.04,2026-04-21,FRANK OS - The RP2350 Operating System,未扱い,
+140,MicroPythonOS,マイコン(ESP32)向け,活発,0.20.0,2026-10-08,https://MicroPythonOS.com,未扱い,
+141,hk,ホビー(Linux互換カーネル),活発,v0.3.0,2026-10-19,"A modern, Linux compatible OS kernel",未扱い,
+142,x16-PRos,ホビー(16ビット実モード),活発,v1.0,2026-09-24,http://x16-pros.prosdev.org/,未扱い,
+143,Ethereal,ホビー,活発,ethereal-1.1.0,2025-08-06,https://ethereal-os.org,未扱い,
+144,Charlotte,ホビー(Rust),アーカイブ済み,(リリースなし),,The Kernel of CharlotteOS,未扱い,
+145,Northport,ホビー,活発,v0.4.0,2024-09-17,"Monolithic kernel, drivers and support libraries for x86_64 and m68k.",未扱い,
+146,MentOS,教育用,活発,v0.10.0,2026-10-07,https://mentos-team.github.io/,扱い済み,2nd 11号
+147,hhuOS,教育用,活発,v0.6.1,2025-01-24,https://github.com/hhuOS/hhuOS/wiki,扱い済み,2nd 11号
+148,Mimiker,教育用(Unix風),停滞,(リリースなし),,https://mimiker.ii.uni.wroc.pl/,未扱い,
+149,SayoriOS,ホビー,更新少なめ,fav24-b6,2024-04-10,https://vk.com/sayorios,未扱い,
+150,Stanix,ホビー,活発,v0.2.0,2025-09-07,https://tayoky.github.io/stanix/,未扱い,
+151,menix,ホビー,活発,(リリースなし),,https://zinnia-os.org,未扱い,
+152,AurixOS,ホビー,活発,(リリースなし),,An Operating System of the future,未扱い,
+153,ExectOS,ホビー(NT風),活発,(リリースなし),,https://exectos.eu.org/,未扱い,
+154,Cyjon,ホビー(アセンブリ),停滞,(リリースなし),,https://blackdev.org,未扱い,
+155,DreamOs64,ホビー,活発,(リリースなし),,https://codeberg.org/dreamos82/DreamOs64,未扱い,
+156,Minoca OS,汎用(小型),停滞,0.4.0.2414,2017-06-26,Minoca operating system,未扱い,
+157,MollenOS (Vali),ホビー,活発,v0.8.0,2026-10-06,http://www.mollenos.com,未扱い,
+158,PonyOS,ホビー(ジョーク),更新少なめ,9.0,(未確認、例年4月1日),https://ponyos.org/,未扱い,
+159,Snowdrop OS,ホビー(16ビット),更新少なめ,(版数は公式サイト参照),,http://sebastianmihai.com/snowdrop/,未扱い,
+160,Sanos,ホビー(サーバ向け),停滞,(版の記載なし),,http://www.jbox.dk/sanos/,未扱い,
+161,Syllable,デスクトップ(AtheOS派生・停滞),停滞,0.6.7(既知),2012,http://syllable.metaproject.frl/,扱い済み,1st 5号
+162,Jehanne,Plan 9系(停滞),停滞,(リリースなし),,http://jehanne.io/,系統は扱い済み,Plan 9系(1st 3号、2nd 6号、3rd 1号)
+163,Clive,Plan 9系(Go製・研究),停滞,(研究用),,https://lsub.org/ls/clive.html,系統は扱い済み,Plan 9系(1st 3号、2nd 6号、3rd 1号)
+164,Týndur,ホビー(ドイツ),停滞,0.2.2,2008-12頃,http://www.tyndur.org/,未扱い,
+165,dahliaOS,Fuchsia/Linux系(判断保留で収録),更新少なめ,dap-stable,2022-03-01,https://dahliaos.io/,扱い済み,2nd 4号
+166,NodeOS,Node.jsベース(停滞),停滞,v1.0.0-RC3.2017-06-12,2017-06-12,http://node-os.com,未扱い,
+167,eggos,Go製ユニカーネル,停滞,v0.4.1,2021-08-07,http://eggos.icexin.com,未扱い,
+168,Fomos,研究(Rust),停滞,(リリースなし),,"Experimental OS, built with rust",未扱い,
+169,MeetixOS,ホビー,停滞,(リリースなし),,https://www.meetixos.org,未扱い,
+170,Thor OS,ホビー(C++),更新少なめ,(リリースなし),,"Simple operating system in C++, written from scratch",未扱い,
+171,Interim,Lisp OS(停滞),停滞,(リリースなし),,https://github.com/mntmn/interim,未扱い,
+172,Oberon (Project Oberon),Oberon系,更新少なめ,2013年版,2021-01-10(サイト更新),https://www.projectoberon.net/,未扱い,
+173,A2 (Bluebottle),Oberon系,更新少なめ,(リリースなし),,https://gitlab.inf.ethz.ch/felixf/oberon,扱い済み,1st 6.5号
+174,MS-DOS (公開ソース),歴史的OS(ソース公開),アーカイブ済み,1.25 / 2.0 / 4.0 のソース,2024-04-25(4.0追加),https://en.wikipedia.org/wiki/MS-DOS,未扱い,
+175,CHERIoT RTOS,RTOS(CHERIハードウェア向け),活発,(リリースなし),,https://cheriot.org/,未扱い,
+176,Roku LT OS,組込み(リモコン等・2026年6月オープンソース化),活発,(初回公開),2026-06,https://blog.roku.com/developer/roku-lt-os,未扱い,
+177,MEECHO,MINIX 3派生(AArch64),活発,(初回公開),2026,https://en.wikipedia.org/wiki/Minix_3,系統は扱い済み,MINIX 3派生(1st 6.5号、3rd 1号)
+178,skift (Codeberg移転後),ホビー(skiftOSの移転先),活発,(リリースなし),,https://skiftos.org/,扱い済み,2nd 3号
+179,Loup OS,ホビー,活発,(リリースなし),,https://codeberg.org/loup-os/base,未扱い,
+180,LensorOS,ホビー(UEFI),活発,V0.0.1,2022-04-10,https://codeberg.org/LensPlaysGames/LensorOS,未扱い,
+181,Echium,MINIX 3のハードフォーク,活発,(リリースなし),,https://codeberg.org/ProjectAnchorage/Echium,系統は扱い済み,MINIX 3派生(1st 6.5号、3rd 1号)
+182,preon,マイクロカーネル(ホビー),活発,(リリースなし),,https://codeberg.org/sacrilegewastaken/preon,未扱い,
+183,vintix,古いPC向けUnix風,活発,(リリースなし),,https://codeberg.org/ramenu/vintix,未扱い,
+184,imaginarium,ホビー(Zig),活発,(リリースなし),,https://codeberg.org/Khitiara/imaginarium,未扱い,
+185,nek,NESエミュレータだけを動かすカーネル,停滞,(リリースなし),,Nintento Entertainment Kernel: Nintendo emulator,未扱い,
+186,gentleOS,ホビー(古い16ビットPC向け),活発,latest-release,2026-06-06,https://luke8086.dev/gentleos/16,未扱い,
+187,rou2exOS,ホビー(DOS風・Rust),活発,v0.11.4,2026-05-05,https://r2.n0p.cz,未扱い,
+188,CP/M-Neo,CP/M風,活発,v1.0,2026-09-17,A CP/M-inspired operating system,未扱い,
+189,ReadyOS,C64向け,活発,v0.2.3,2026-05-08,https://readyos64.com,未扱い,
+190,swift-os,ホビー(Embedded Swift),活発,(リリースなし),,https://swiftos.tech,未扱い,
+191,go-dav-os,ホビー(Go),活発,v0.5.0,2026-08-06,https://discord.gg/mBHhPZ65eW,未扱い,
+192,Scarlet,ホビー(Rust),活発,kernel-v1.0.1,2026-09-08,http://scarlet-os.org,未扱い,
+193,anos,ホビー(マイクロカーネル),更新少なめ,(リリースなし),,An operating system,未扱い,
+194,Lux,マイクロカーネル(非同期),更新少なめ,(リリースなし),,Portable asynchronous microkernel with multiprocessor priority scheduling and Unix-like abstractions,未扱い,
+195,ember,ホビー(ブートセクタから自作),活発,(リリースなし),,"An operating system written from scratch: boot sector, FAT filesystem, DOS-compatible interrupts, sound, a 32-bit runtime and a graphical desktop",未扱い,
+196,BoredOS,ホビー,活発,nightly,2026-09-29,https://boredos.dev,未扱い,
+197,RedactedOS,ホビー,活発,(リリースなし),,The [REDACTED] Operating System,未扱い,
+198,boringos,ホビー(独自カーネル),活発,(リリースなし),,"Independent desktop operating system with its own kernel, userspace and native BoringWM, written primarily in C",未扱い,
+199,VibeOS,ホビー(AI生成・AArch64),更新少なめ,(リリースなし),,A completely vibecoded operating system targeting Aarch64,未扱い,
+200,vib-OS,ホビー(AI生成),更新少なめ,2.2.0,2026-01-20,https://github.com/viralcode/vib-OS,未扱い,
+201,LCOS,Lunduke Computer Operating System,活発,0.9.4,2026-10-16,The Lunduke Computer Operating System,未扱い,
+202,TrustOS,ホビー(Rust),活発,v0.12.0-audio,2026-04-28,"🦀 TrustOS — 264K lines of bare-metal Rust. Zero C, zero blobs. Desktop, native x86_64 compiler, browser, emulators, TLS 1.3, PXE self-replication. Source code ships in 4 educational versions (EN/FR). x86_64/ARM64/RISC-V. Built solo by @Nated0ge.",未扱い,
+203,deltaOS,ホビー,活発,17-06-26,2026-06-17,"A hobby desktop-oriented operating system for AMD64, written in C and x86 assembly with a UEFI bootloader and a monolithic object-based capability-oriented (Currently it's basic but will be expanded) kernel.",未扱い,
+204,RealXV6,UNIX V6の8086移植,活発,(リリースなし),,A Port of the UNIX Version 6 (V6) Kernel to the 8086 PC in Real Mode,未扱い,
+205,Linux 0.11 Rust版,教育用(Linux 0.11をRustで書き直し),活発,(リリースなし),,https://poseidon-fan.github.io/linux-0.11-rs/,未扱い,
+206,SimpleKernel,教育用,更新少なめ,(リリースなし),,https://simple-xx.github.io/SimpleKernel/,未扱い,
+207,BleskOS,ホビー(アセンブリ),活発,v2025u10,2025-03-29,http://bleskos.com,未扱い,
+208,zedBSD(Kei/zedBSD),独自カーネル(POSIX、BSD由来ではない),活発,1.0.0 Beta 2 / nightly,2026-10-30(nightly-317),https://github.com/awemorris/zedBSD,未扱い,
+209,RenkuOS,デスクトップ(BeOS互換、Haikuのフォーク),活発,nightly,,https://renkuos.org/,系統は扱い済み,Haikuのフォーク(Haikuを扱い済み)
