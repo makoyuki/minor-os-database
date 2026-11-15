@@ -10,7 +10,7 @@
 9,OmniOS,Unix(illumosディストリビューション),活発,r151058,2026-05-04,https://omnios.org/,系統は扱い済み,illumos系(OpenIndianaを扱い済み)(2nd 10号、3rd 1号),
 10,SmartOS,Unix(illumosディストリビューション),活発,20261009T131447Z,2026-10-09,https://www.tritondatacenter.com/smartos,系統は扱い済み,illumos系(OpenIndianaを扱い済み)(2nd 10号、3rd 1号),
 11,Tribblix,Unix(illumosディストリビューション),活発,0m41,(日付記載なし),http://www.tribblix.org/,系統は扱い済み,illumos系(OpenIndianaを扱い済み)(2nd 10号、3rd 1号),
-12,Oracle Solaris,Unix(商用),商用(継続),11.4 SRU 94(推定),2026-07,https://www.oracle.com/solaris/,扱い済み,1st 3号、1st 10号、1st 11号,
+12,Oracle Solaris,Unix(商用),商用(継続),11.4 SRU 94(推定),2026-07,https://www.oracle.com/solaris/,扱い済み,1st 3号、1st 10号、1st 11号,現行の商用UNIX。既刊で扱ったため例外として収録
 13,GNU Hurd,マイクロカーネル(GNU Mach上のサーバ群),活発,0.9 / GNU Mach 1.8,2016-12(既知),https://www.gnu.org/software/hurd/,扱い済み,2nd 10号、3rd 1号,
 14,Debian GNU/Hurd,GNU Hurdディストリビューション,活発,Debian GNU/Hurd 2025,2025-08-10,https://www.debian.org/ports/hurd/,扱い済み,2nd 10号、3rd 1号,
 15,9front,Plan 9系,活発,"""THIS WAS SUPPOSED TO BE FUN""",2026-08-02,https://9front.org/,系統は扱い済み,Plan 9系(Bell Labs版・9legacyを扱い済み。9front自体は未)(1st 3号、2nd 6号、3rd 1号),
